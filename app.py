@@ -4,6 +4,7 @@ import numpy as np
 import pickle
 from sklearn.preprocessing import StandardScaler, OrdinalEncoder, OneHotEncoder
 
+
 # Set page title and configuration
 st.set_page_config(page_title="Traffic Accident Prediction", layout="wide")
 
