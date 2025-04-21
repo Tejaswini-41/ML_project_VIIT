@@ -131,7 +131,6 @@ themes = {
         "sidebar": "#e8daef"
     }
 }
-
 # Load the trained model
 @st.cache_resource
 def load_model():
